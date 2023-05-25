@@ -6,4 +6,5 @@ in this project i made a simulation on softwware called proteus 8.9
 -this system turn lights of the home if there are anu person at home and light level is low 
 <br>
 -also it turned on fans if the temprature is high 
+<br>
 -finally it it turn on fire warning buzzer if there is a fire 
